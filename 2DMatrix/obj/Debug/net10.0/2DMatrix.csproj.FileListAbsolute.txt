@@ -1,0 +1,15 @@
+D:\TAP\GITHUB\Data-Structures\2DMatrix\bin\Debug\net10.0\2DMatrix.exe
+D:\TAP\GITHUB\Data-Structures\2DMatrix\bin\Debug\net10.0\2DMatrix.deps.json
+D:\TAP\GITHUB\Data-Structures\2DMatrix\bin\Debug\net10.0\2DMatrix.runtimeconfig.json
+D:\TAP\GITHUB\Data-Structures\2DMatrix\bin\Debug\net10.0\2DMatrix.dll
+D:\TAP\GITHUB\Data-Structures\2DMatrix\bin\Debug\net10.0\2DMatrix.pdb
+D:\TAP\GITHUB\Data-Structures\2DMatrix\obj\Debug\net10.0\2DMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\Data-Structures\2DMatrix\obj\Debug\net10.0\2DMatrix.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\Data-Structures\2DMatrix\obj\Debug\net10.0\2DMatrix.AssemblyInfo.cs
+D:\TAP\GITHUB\Data-Structures\2DMatrix\obj\Debug\net10.0\2DMatrix.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\Data-Structures\2DMatrix\obj\Debug\net10.0\2DMatrix.sourcelink.json
+D:\TAP\GITHUB\Data-Structures\2DMatrix\obj\Debug\net10.0\2DMatrix.dll
+D:\TAP\GITHUB\Data-Structures\2DMatrix\obj\Debug\net10.0\refint\2DMatrix.dll
+D:\TAP\GITHUB\Data-Structures\2DMatrix\obj\Debug\net10.0\2DMatrix.pdb
+D:\TAP\GITHUB\Data-Structures\2DMatrix\obj\Debug\net10.0\2DMatrix.genruntimeconfig.cache
+D:\TAP\GITHUB\Data-Structures\2DMatrix\obj\Debug\net10.0\ref\2DMatrix.dll
