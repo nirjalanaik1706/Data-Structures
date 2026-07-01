@@ -1,0 +1,15 @@
+D:\TAP\GITHUB\Data-Structures\LinkedList\bin\Debug\net10.0\LinkedList.exe
+D:\TAP\GITHUB\Data-Structures\LinkedList\bin\Debug\net10.0\LinkedList.deps.json
+D:\TAP\GITHUB\Data-Structures\LinkedList\bin\Debug\net10.0\LinkedList.runtimeconfig.json
+D:\TAP\GITHUB\Data-Structures\LinkedList\bin\Debug\net10.0\LinkedList.dll
+D:\TAP\GITHUB\Data-Structures\LinkedList\bin\Debug\net10.0\LinkedList.pdb
+D:\TAP\GITHUB\Data-Structures\LinkedList\obj\Debug\net10.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\Data-Structures\LinkedList\obj\Debug\net10.0\LinkedList.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\Data-Structures\LinkedList\obj\Debug\net10.0\LinkedList.AssemblyInfo.cs
+D:\TAP\GITHUB\Data-Structures\LinkedList\obj\Debug\net10.0\LinkedList.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\Data-Structures\LinkedList\obj\Debug\net10.0\LinkedList.sourcelink.json
+D:\TAP\GITHUB\Data-Structures\LinkedList\obj\Debug\net10.0\LinkedList.dll
+D:\TAP\GITHUB\Data-Structures\LinkedList\obj\Debug\net10.0\refint\LinkedList.dll
+D:\TAP\GITHUB\Data-Structures\LinkedList\obj\Debug\net10.0\LinkedList.pdb
+D:\TAP\GITHUB\Data-Structures\LinkedList\obj\Debug\net10.0\LinkedList.genruntimeconfig.cache
+D:\TAP\GITHUB\Data-Structures\LinkedList\obj\Debug\net10.0\ref\LinkedList.dll
