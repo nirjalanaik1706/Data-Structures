@@ -1,69 +1,95 @@
 namespace tflDsa;
+
 using dsa;
-public class LinkedList{
-    Node head=null;
-    public  void Display()
+public class LinkedList
+{
+    Node head = null;
+    public void Display()
     {
-        Node current=head;
-        while (current != null){
-            Console.Write(current.data+"--->");
-            current=current.next;
+        Node current = head;
+        while (current != null)
+        {
+            Console.Write(current.data + "--->");
+            current = current.next;
         }
     }
 
     public void Insert(int data)
-    {   
-        Node newData=new Node(data);
-        if (head == null){
-            head=newData;
+    {
+        Node newData = new Node(data);
+        if (head == null)
+        {
+            head = newData;
         }
-        else{
-            Node current=head;
-            while(current.next!=null){
-            current=current.next;
+        else
+        {
+            Node current = head;
+            while (current.next != null)
+            {
+                current = current.next;
             }
-            current.next=newData;
+            current.next = newData;
         }
+    }
+
+    public void InsertNodeFirst(int data)
+    {
+        Node node = new Node(data);
+        node.next = head;
+        head = node;
+    }
+
+    public void InsertInMiddle(int data)
+    {
+
     }
 
     public void Delete(int data)
     {
-        if (head.data == data){
+        if (head.data == data)
+        {
             if (head.next == null)
             {
-                head=null;
+                head = null;
             }
-            else{
-            head=head.next;
+            else
+            {
+                head = head.next;
+            }
         }
-        }
-        else{
-            Node current=head;
+        else
+        {
+
+            Node current = head;
             while (current.next.data != data)
             {
-            current=current.next;
+                current = current.next;
             }
-            if(current.next.next==null){
-                current.next=null;
+            if (current.next.next == null)
+            {
+                current.next = null;
             }
-            else{
-            current.next=current.next.next;
+            else
+            {
+                current.next = current.next.next;
             }
         }
     }
 
-    public void Update(int oldData,int newData)
+    public void Update(int oldData, int newData)
     {
-        if ( head.data== oldData){
-            head.data=newData;
+        if (head.data == oldData)
+        {
+            head.data = newData;
         }
-        else{
-            Node current=head;
-            while (current.data != oldData){
-                current=current.next;
+        else
+        {
+            Node current = head;
+            while (current.data != oldData)
+            {
+                current = current.next;
             }
-            current.data=newData;
+            current.data = newData;
         }
-        
     }
 }

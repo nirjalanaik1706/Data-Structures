@@ -15,7 +15,8 @@ public class UIManager
         Console.WriteLine("2. Display Linked List: ");
         Console.WriteLine("3. Update Node: ");
         Console.WriteLine("4. Delete Node : ");
-        Console.WriteLine("5. Exit");
+        Console.WriteLine("5. Insert Node in first: ");
+        Console.WriteLine("6. Exit");
         Console.WriteLine("---------------------------");
         Console.WriteLine("Enter Your Choice: ");
         int choice = int.Parse(Console.ReadLine());
@@ -25,7 +26,6 @@ public class UIManager
 
     public void HandleDisplayMenu(int num)
     {
-       
             switch (num)
             {
                 case 1:
@@ -40,7 +40,6 @@ public class UIManager
                     Console.WriteLine("\nList after insertion:");
                     list.Display();
                     break;
-
 
                 case 2:
                     Console.WriteLine("\nLinked list : ");
@@ -69,6 +68,15 @@ public class UIManager
                     break;
 
                 case 5:
+                    list.Display();
+                    Console.WriteLine("\nEnter data to be insert in the first: ");
+                    int firstdata=int.Parse(Console.ReadLine());
+                    list.InsertNodeFirst(firstdata);
+                    Console.WriteLine("Updated Linked list: ");
+                    list.Display();
+                    break;
+
+                case 6:
                     Environment.Exit(0);
                     break;
             }
