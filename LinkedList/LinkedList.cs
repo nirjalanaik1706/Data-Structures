@@ -39,9 +39,20 @@ public class LinkedList
         head = node;
     }
 
-    public void InsertInMiddle(int data)
+    public void InsertInMiddle(int nodeData,Node newData)
     {
-
+        // Node newNode=new Node(data,newData);
+        if (head.data == nodeData)
+        {
+            head.next=newData;
+        }
+        else
+        {
+            while (head.next.data != nodeData)
+            {
+                
+            }
+        }
     }
 
     public void Delete(int data)
