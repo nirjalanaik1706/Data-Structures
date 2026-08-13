@@ -1,0 +1,15 @@
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\bin\Debug\net10.0\StackWithLinkedList.exe
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\bin\Debug\net10.0\StackWithLinkedList.deps.json
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\bin\Debug\net10.0\StackWithLinkedList.runtimeconfig.json
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\bin\Debug\net10.0\StackWithLinkedList.dll
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\bin\Debug\net10.0\StackWithLinkedList.pdb
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\obj\Debug\net10.0\StackWithLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\obj\Debug\net10.0\StackWithLinkedList.AssemblyInfoInputs.cache
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\obj\Debug\net10.0\StackWithLinkedList.AssemblyInfo.cs
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\obj\Debug\net10.0\StackWithLinkedList.csproj.CoreCompileInputs.cache
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\obj\Debug\net10.0\StackWithLinkedList.sourcelink.json
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\obj\Debug\net10.0\StackWithLinkedList.dll
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\obj\Debug\net10.0\refint\StackWithLinkedList.dll
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\obj\Debug\net10.0\StackWithLinkedList.pdb
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\obj\Debug\net10.0\StackWithLinkedList.genruntimeconfig.cache
+D:\TAP\GITHUB\Data-Structures\StackWithLinkedList\obj\Debug\net10.0\ref\StackWithLinkedList.dll
